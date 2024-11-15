@@ -110,4 +110,4 @@ Ensure you have the following installed:
 Once complete, push your changes to GitHub and add the following collaborators:
 - zAmensah
 - ernestaryee
-- michaelodonkor8
+- michaelodonkor
